@@ -1,7 +1,5 @@
 # QFHO Tournament Project
 
-COMP229-M2021-Team10 Final Project
-
 ## Features
 
 - You can view a list of tournament without login.
